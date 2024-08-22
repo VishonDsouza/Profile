@@ -25,10 +25,12 @@ body{
 .header{
     text-align: center;
     border:solid 2px green;
+    background-color: blue;
     
 }
 .programming{
     text-align: center;
     border: solid 2px black;
+    background-color:red;
 }
 
